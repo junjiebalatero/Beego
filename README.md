@@ -1,6 +1,6 @@
 # Beego - a webserver
 
-# Windows only
+# Already build in Windows and the code could be build in any unix
 
 # just double click the JunjieBeego.exe files
 
