@@ -1,4 +1,6 @@
-# Beego
+# Beego - a webserver
+
+# Windows only
 
 # just double click the JunjieBeego.exe files
 
